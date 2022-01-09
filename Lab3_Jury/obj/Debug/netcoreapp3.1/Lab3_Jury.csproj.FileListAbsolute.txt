@@ -1,0 +1,15 @@
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Lab3_Jury.exe
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Lab3_Jury.deps.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Lab3_Jury.runtimeconfig.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Lab3_Jury.runtimeconfig.dev.json
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Lab3_Jury.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Lab3_Jury.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\bin\Debug\netcoreapp3.1\Utility.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.AssemblyInfoInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.AssemblyInfo.cs
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.csproj.CoreCompileInputs.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.csproj.CopyComplete
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.dll
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.pdb
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.genruntimeconfig.cache
+D:\Заочка\2 курс\1 семестр\риатппс\Lab3_Jury\Lab3_Jury\obj\Debug\netcoreapp3.1\Lab3_Jury.csproj.AssemblyReference.cache
